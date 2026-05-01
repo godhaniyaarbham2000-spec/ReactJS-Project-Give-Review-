@@ -30,7 +30,7 @@ Built for practice, understanding React fundamentals, and portfolio showcase.
 
 ```
 
-Comment-Form-React/
+ReactJS-Project-Give-Review/
 │
 ├── src/
 │ ├── components/
@@ -53,12 +53,12 @@ Comment-Form-React/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/your-username/comment-form-react.git
+git clone https://github.com/godhaniyaarbham2000-spec/ReactJS-Project-Give-Review.git
 ```
 
 ### 2. Move to project folder
 ```
-cd comment-form-react
+cd ReactJS-Project-Give-Review
 ```
 
 ### 3. Install dependencies
