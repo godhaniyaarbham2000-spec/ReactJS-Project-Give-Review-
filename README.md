@@ -1,7 +1,7 @@
 # 📝 React Comment Form Project
 
 A clean and minimal **React + Vite Comment Form Application** with user comments, rating system, and real-time UI updates.  
-Built for practice, understanding React fundamentals, and portfolio showcase.
+Built for practice, understanding React fundamentals, and portfolio showcase. 
 
 ---
 
